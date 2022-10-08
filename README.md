@@ -12,4 +12,4 @@ In order to answer key business questions, I followed the six steps of the data 
 - Data cleaning, manipulation and exploration (Microsoft SQL)
 - Data Visualisation (Microsoft Power BI)
 
-Raw dataset: Avaliable from **<a href "https://divvy-tripdata.s3.amazonaws.com/index.html" rel="nofollow">Cyclistic Bike Sharing Data</a>**
+Raw dataset: Avaliable from **<a href="https://divvy-tripdata.s3.amazonaws.com/index.html" rel="nofollow">Cyclistic Bike Sharing Data Analysis</a>**
