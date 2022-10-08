@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-### For the capstone project as part of the Google Data Analysis Professional Certifictae, I selected the case-study Cyclistic bike share for analysis. 
+### For the capstone project as part of the Google Data Analysis Professional Certificate, I selected the case-study Cyclistic bike share for analysis. 
 For the case study, I performed the real-world tasks of a Junior Data Analyst, for the Marketing team at Cyclistic, a bike-share company in Chicago. 
 
 In order to answer key business questions, I followed the six steps of the data analysis process outlined in the course: Ask, Prepare, Process, Analyse, Share and Act. 
